@@ -1,4 +1,4 @@
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
+
 -- Create the database
 CREATE DATABASE burgers_db;
 USE `burgers_db`;
